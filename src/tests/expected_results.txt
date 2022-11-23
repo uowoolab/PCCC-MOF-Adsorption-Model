@@ -1,0 +1,7 @@
+==== test1.cif ====
+Predicted working capacity (mmol/g): 0.49
+Predicted CO2/N2 selectivity: 10.47
+
+==== test2.cif ====
+Predicted working capacity (mmol/g): 0.22
+Predicted CO2/N2 selectivity: 1.93
