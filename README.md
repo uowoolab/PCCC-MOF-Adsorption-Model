@@ -1,5 +1,5 @@
 # PCCC-MOF-Adsorption-Model
-This is a machine learning model to predict adsorption properties (CO2 working capacity and CO2/N2 selectivity) of MOFs under post-combustion carbon capture conditions. The model was trained on the ARC-MOF database. 
+This is a machine learning model to predict adsorption properties (CO2 working capacity and CO2/N2 selectivity) of MOFs under post-combustion carbon capture conditions. The model was trained on the ARC-MOF database. The code uses two MLP models with three hidden layers each to predict working capacity and selectivity, using geometric and AP-RDF descriptors.
 
 Required Python libraries (tested versions):
 -torch (version 1.9.0)
